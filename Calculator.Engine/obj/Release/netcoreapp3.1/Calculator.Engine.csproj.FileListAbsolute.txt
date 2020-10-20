@@ -1,0 +1,8 @@
+C:\Workspace\Calculator\Calculator.Engine\bin\Release\netcoreapp3.1\Calculator.Engine.deps.json
+C:\Workspace\Calculator\Calculator.Engine\bin\Release\netcoreapp3.1\Calculator.Engine.dll
+C:\Workspace\Calculator\Calculator.Engine\bin\Release\netcoreapp3.1\Calculator.Engine.pdb
+C:\Workspace\Calculator\Calculator.Engine\obj\Release\netcoreapp3.1\Calculator.Engine.csprojAssemblyReference.cache
+C:\Workspace\Calculator\Calculator.Engine\obj\Release\netcoreapp3.1\Calculator.Engine.AssemblyInfoInputs.cache
+C:\Workspace\Calculator\Calculator.Engine\obj\Release\netcoreapp3.1\Calculator.Engine.AssemblyInfo.cs
+C:\Workspace\Calculator\Calculator.Engine\obj\Release\netcoreapp3.1\Calculator.Engine.dll
+C:\Workspace\Calculator\Calculator.Engine\obj\Release\netcoreapp3.1\Calculator.Engine.pdb
