@@ -1,0 +1,11 @@
+add 2
+add 2
+add 2
+add 2
+add 2
+add 2
+add 2
+add 2
+add 2
+add 2
+multiply 3
